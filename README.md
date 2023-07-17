@@ -1,4 +1,13 @@
-:wave: Hello World! Welcome to my Data Science workspace!
+:wave: Hello World! Welcome to my Data Science workspace created to learn Python.
+
+🪧Course enrolled is Python_machine_learning_course.
+🪧 Description: This is my learning project and where I am learning about python basics focused to Machine Learning.
+
+🗃️ Table of Contents
+🐋 Devcontainer Environment
+🐍 Class Exercices
+📚 My Class Notes
+📦 Other notebooks / Installations
 
 *********************Just a quick brief about who I am ************************************
 
@@ -14,11 +23,5 @@ Travel passionate
 
 Feel free to follow me and contact if you find it interested for both!
 
-*********************How to navigate this content ************************************
-
-Not very experimented on this yet, but we are building basics type of documents as we start learning.
-
-There is a folder called "Ejercicios" with class exercices we are doing during the course.
-The rest are notebooks or empty data files we are just startint to learn.
 
 
